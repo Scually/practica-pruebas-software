@@ -1,3 +1,5 @@
+# Corrección para validar entradas no numéricas (Issue #1)
+
 def sumar(a, b):
     return a + b
 
